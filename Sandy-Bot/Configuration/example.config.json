@@ -1,0 +1,19 @@
+{
+    "Tokens": {
+        "Discord": ""
+    },
+    "Discord": {
+        "Logo": "",
+        "ErrorEmote": "",
+        "ErrorColor": "",
+        "SuccessColor": "",
+        "SuccessEmote": "",
+        "CustomColor": "",
+        "Footer": ""
+    },
+    "Settings": {
+        "WelcomeChannelId": "",
+        "DevIds": [""],
+        "GuildId": ""
+    }
+}
