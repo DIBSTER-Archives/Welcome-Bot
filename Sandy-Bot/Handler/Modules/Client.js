@@ -6,10 +6,10 @@ const Client = ({
         parse: [],
         users: [],
         roles: [],
-        repliedUser: true
+        repliedUser: false
     }),
-    intents: ["GUILDS", "GUILD_MEMBERS", "GUILD_PRESENCES", "GUILD_MESSAGES"],
-    partials: ['USER', 'CHANNEL', 'MESSAGE', "REACTION"]
+    intents: ["GUILD_MEMBERS"],
+    partials: []
 });
 
 module.exports = Client;
