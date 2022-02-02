@@ -18,7 +18,7 @@ DiscordClient.once('ready', async (DiscordClient) => {
 
     //Activities:
     const Activities = [
-        {text: "over Mista Man", type: "WATCHING"}, 
+        {text: `over ${Guild.name}`, type: "WATCHING"}, 
         {text: `over ${Guild.members.cache.size - BotCount}`, type: "WATCHING"}
     ];
 

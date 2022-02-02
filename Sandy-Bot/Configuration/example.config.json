@@ -13,7 +13,6 @@
     },
     "Settings": {
         "WelcomeChannelId": "",
-        "DevIds": [""],
         "GuildId": ""
     }
 }
