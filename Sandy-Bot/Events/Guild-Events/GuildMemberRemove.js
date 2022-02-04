@@ -20,7 +20,7 @@ DiscordClient.on('guildMemberRemove', async (member) => {
     const LeaveChannel = await DiscordClient.channels.cache.get(Configuration.Settings.WelcomeChannelId); //Finding the Correct Welcome Channel.
 
     //Actual Leave Message.
-    LeaveChannel.send(`**${member.user.tag}** has departed from **${member.guild.name}**. We hope they enjoyed the stay at **${member.guild.name}**, sady to see you go.`);
+    LeaveChannel.send(`**${member.user.tag}** has departed from **${member.guild.name}**. We hope they enjoyed the stay at **${member.guild.name}**, sad to see you go.`);
 
     console.log(`${Chalk.yellowBright(member.user.tag)} just left ${Chalk.blueBright(member.guild.name)}`);   //Console logging the event.
     
