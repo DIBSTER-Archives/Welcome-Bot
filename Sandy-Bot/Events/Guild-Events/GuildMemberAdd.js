@@ -29,7 +29,7 @@ DiscordClient.on('guildMemberAdd', async (member) => {
     const WelcomeEmbed = new DiscordJS.MessageEmbed()
         .setTitle(`Welcome ${member.user.username} to ${member.guild.name}!`)
         .setColor(Configuration.Discord.CustomColor)
-        .setDescription(`Welcome **${member.user.username}** to **${member.guild.name}**. We hope you have a great time here. We are now at **${member.guild.memberCount - BotCount}** members. Here are some things you can do in __${member.guild.name}__:\n\n<:sandy_thumbsup:838082076339208212> Make sure to read <#773005756873703467>\n<:sandy_thumbsup:838082076339208212> Pickup roles in <#779630309770788864>\n<:sandy_thumbsup:838082076339208212> Feel Free to Follow my Socials <#847722907761377300>\n\n**User Account Creation Date:**\n<t:${Math.floor(member.user.createdTimestamp/1000)}:F>\n**User Join Date:**\n<t:${Math.floor(member.joinedTimestamp/1000)}:F>`)
+        .setDescription(`Welcome **${member.user.username}** to **${member.guild.name}**. We hope you have a great time here. We are now at **${member.guild.memberCount - BotCount}** members. Here are some things you can do in __${member.guild.name}__:\n\n✅ Make sure to read <#${Configuration.Discord.RulesChannelId}>\n\n**User Account Creation Date:**\n<t:${Math.floor(member.user.createdTimestamp/1000)}:F>\n**User Join Date:**\n<t:${Math.floor(member.joinedTimestamp/1000)}:F>`)
         .setThumbnail(Configuration.Discord.Logo)
         .setFooter({text: Configuration.Discord.Footer, iconURL: Configuration.Discord.Logo})
         .setImage('attachment://WelcomeImage.png')
