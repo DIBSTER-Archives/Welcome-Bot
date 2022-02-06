@@ -1,8 +1,8 @@
 {
-  "name": "sandy-bot",
+  "name": "welcome-bot",
   "version": "1.0.0",
-  "description": "Sandy Discord Bot.",
-  "main": "index.js",
+  "description": "Discord.js Welcome Bot.",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
