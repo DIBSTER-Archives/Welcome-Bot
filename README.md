@@ -7,7 +7,7 @@
  3. A Discord bot token from the [Discord Developer Dashboard](https://discord.com/developers/applications).
 
 # Configuration
- It doesn't take a rocket scientist to set this bot up. But if you are, please get me a internship at NASA, I'm bored.
+ It doesn't take a rocket scientist to set this bot up.
 
  **Steps:**
  1. Change `example.config.json` located in the `Sandy-Bot/Configuration/` folder, and rename it to `config.json`.
