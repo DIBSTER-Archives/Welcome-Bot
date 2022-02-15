@@ -23,6 +23,6 @@ node index.js
  4. Your good to go! Now you setup this bot, your all done.
 
  # Credits
- 1. Me
- 2. Myself
- 3. I
+ 1. Me (DIBSTER)
+ 2. Myself (DIBSTER)
+ 3. I (DIBSTER)
