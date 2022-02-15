@@ -13,10 +13,13 @@
  1. Change `example.config.json` located in the `src/Configuration/` folder, and rename it to `config.json`.
  2. Start filling out the information inside of the configuration file. If you don't, you bot won't run properly. Your Discord token is the thing you get from your dashboard.
  3. Run the following commands:
- ```js
+ ```shell
 npm install
+```
+>Followed By:
+```shell
 node index.js
- ```
+```
  4. Your good to go! Now you setup this bot, your all done.
 
  # Credits
