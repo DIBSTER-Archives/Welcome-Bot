@@ -1,4 +1,4 @@
-# Sandy-Bot
+# Welcome-Bot
  A very simple Discord Welcome and Leave bot created in [discord.js](https://github.com/discordjs/discord.js) and is easy to configure.
 
 # Prerequisite
