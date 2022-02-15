@@ -26,3 +26,6 @@ node index.js
  1. Me (DIBSTER)
  2. Myself (DIBSTER)
  3. I (DIBSTER)
+
+ # Disclaimer
+I do not take any responsibility for any damage that this bot might cause, this bot is open sourced as a shortcut for bot developers to quickly launch a bot for there needs, and not meant for a complete beginner with little to no experience with the Discord API, Javascript, and/or NodeJS. Proceed to us this at your own risk.
