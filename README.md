@@ -10,7 +10,7 @@
  It doesn't take a rocket scientist to set this bot up.
 
  **Steps:**
- 1. Change `example.config.json` located in the `Sandy-Bot/Configuration/` folder, and rename it to `config.json`.
+ 1. Change `example.config.json` located in the `src/Configuration/` folder, and rename it to `config.json`.
  2. Start filling out the information inside of the configuration file. If you don't, you bot won't run properly. Your Discord token is the thing you get from your dashboard.
  3. Run the following commands:
  ```js
