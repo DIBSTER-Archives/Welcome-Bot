@@ -1,12 +1,12 @@
-# Welcome-Bot
+# Welcome-Bot:
  A very simple Discord Welcome and Leave bot created in [discord.js](https://github.com/discordjs/discord.js) and is easy to configure.
 
-# Prerequisite
+# Prerequisites:
  1. [NodeJS](https://nodejs.org/)
  2. Prior knowledge of JavaScript and JSON. It literally is a "fill in the blank and your good to go" type of bot, but if you get errors, that's on you bud.
  3. A Discord bot token from the [Discord Developer Dashboard](https://discord.com/developers/applications).
 
-# Configuration
+# Configuration:
  It doesn't take a rocket scientist to set this bot up.
 
  **Steps:**
@@ -27,5 +27,14 @@ node index.js
  2. Myself (DIBSTER)
  3. I (DIBSTER)
 
- # Disclaimer
+# Why Archive?
+
+My very first open source bot project. It was really simple, so I don't have any reason to keep it here.
+
+
+# Disclaimer:
 I do not take any responsibility for any damage that this bot might cause, nor responsibile to maintain this Repository. This Discord bot source code is open sourced as a shortcut for bot developers to quickly launch a bot for there needs, and not meant for a complete beginner with little to no experience with the Discord API, Javascript, and/or NodeJS. Proceed to use the following Repository code at your own risk.
+
+# 🔐 License:
+- Distributed under the Apache-2.0 license. See LICENSE.md for more information.
+- Ask you include credits when you are using this. Link back to this repository or state my GitHub name.
